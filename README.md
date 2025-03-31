@@ -1,5 +1,4 @@
 # 📱 Cómo Conectar tu Dispositivo Android
-![image](https://github.com/user-attachments/assets/e1c34e6b-e92b-4b9c-bf43-644790bafe0d)
 ![image](https://github.com/user-attachments/assets/c62f3d8d-1cb6-468c-99d7-22c48a2819a9)
 
 Este documento detalla los pasos para conectar tu dispositivo Android y ejecutar una aplicación en él.
@@ -63,7 +62,8 @@ Si encuentras problemas al conectar tu dispositivo:
 Siguiendo estos pasos, habrás conectado tu dispositivo Android y ejecutado tu aplicación correctamente. 🚀
 
 ## 📸 Capturas de pantalla
-![Interfaz de conexión](image.png)
+
+![image](https://github.com/user-attachments/assets/e1c34e6b-e92b-4b9c-bf43-644790bafe0d)
 
 ---
 📢 ¡Si este documento te fue útil, no olvides dejar un ⭐ en el repositorio!
